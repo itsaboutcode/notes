@@ -1,7 +1,7 @@
 # Read Me
 
-* [Read Me](./)
-* [Swift](https://github.com/itsaboutcode/notes/tree/214e299255a02b223367c1c8a8b880a01c14333b/swift/README.md)
+* [Read Me](./README.md)
+* [Swift](swift/README.md)
 * iOS Developement
 * Java
 * Kotlin
