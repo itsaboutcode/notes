@@ -2,7 +2,7 @@
 
 [Read Me](../README.md)
 
-* [Swift](../Swift/README.md)
+* [Swift](Swift/README.md)
 
 * iOS Developement
 
