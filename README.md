@@ -1,6 +1,6 @@
 # Books
 
-[Read Me](../README.md)
+* [Read Me](../README.md)
 
 * [Swift](swift/README.md)
 
