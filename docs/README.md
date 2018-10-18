@@ -7,3 +7,6 @@
   * [Struct](../swift/struct.md)
     * [Generics](../swift/classes.md)
     * [Google](../swift/struct.md)
+    * [Microsoft](../swift/struct.md)
+    * [Facebook](../swift/struct.md)
+    * [Yahoo](../swift/struct.md)
