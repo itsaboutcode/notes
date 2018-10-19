@@ -1,3 +1,3 @@
-# Table of Content
+# Introduction to Laravel
 
-* Installation
+Laravel is a PHP MVC based framework.
