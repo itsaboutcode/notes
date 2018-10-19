@@ -9,7 +9,7 @@
 * Ruby
 * Ruby on Rails
 * PHP
-* Laravel
+* [Laravel](laravel/index.md)
 * ES6
 * JS
 * HTML
