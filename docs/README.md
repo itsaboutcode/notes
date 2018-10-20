@@ -1,6 +1,10 @@
 # Table of Content
 
 * [Read Me](../README.md)
+* [Prepare for Interview](../interview/index.md)
+  * [Reference](../interview/reference.md)
+* [Objective-C](../objc/objc.md)
+  * [Reference](../objc/reference.md)
 * [Swift](../swift/README.md)
   * [Closure](../swift/closure.md)
   * [Reference](../swift/reference.md)
